@@ -1,0 +1,9 @@
+{
+	"name": "df-ucb-sisger-datalake",
+	"location": "brazilsouth",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "582b3f45-076c-4d96-bfa8-60980ac9d6f8",
+		"tenantId": "cc28633f-12b8-46cb-bc15-951dae239b4d"
+	}
+}
